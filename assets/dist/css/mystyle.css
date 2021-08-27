@@ -8,6 +8,12 @@
     background-size: cover;
 }
 
+.bg-cover{
+    background-image: url(../img/Cover.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .circulo {
     display: inline-block;
     width: 4rem;
@@ -27,6 +33,7 @@
 
 .text-azul {
     color: rgba(39, 119, 255, 1);
+    font-size: 1.9rem;
 }
 
 .icone {
@@ -38,4 +45,9 @@
     border: none;
     text-decoration: none;
     text-align: center;
+}
+
+.detalhe{
+    font-size: 0.9rem;
+    font-style: italic;
 }
