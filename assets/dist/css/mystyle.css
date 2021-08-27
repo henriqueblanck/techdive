@@ -1,0 +1,41 @@
+.body{
+    font-family: roboto;
+}
+
+.bg-personality{
+    background-image: url(../img/Mask\ Group.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.circulo {
+    display: inline-block;
+    width: 4rem;
+    height: 4rem;
+    text-align: center;
+    vertical-align: middle;
+    padding-top:0.5rem
+}
+
+.bg-azul {
+    background: rgba(39, 119, 255, 1);
+}
+
+.bg-cinza {
+    background: rgba(16, 16, 17, 1);
+}
+
+.text-azul {
+    color: rgba(39, 119, 255, 1);
+}
+
+.icone {
+    max-width: 17rem;
+}
+
+.botao-azul {
+    background: rgba(8, 72, 208, 1);
+    border: none;
+    text-decoration: none;
+    text-align: center;
+}
